@@ -1,0 +1,14 @@
+body
+{
+
+}
+
+.heading {
+    width: 100%;
+    text-align: center;
+}
+
+#play {
+    height: 40px;
+    width: 60px;
+}
